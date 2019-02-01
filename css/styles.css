@@ -148,7 +148,7 @@ img {
         display: inline-block;
         width: 25px;
         height: 14.26px;
-        background-image: url(../images/icon-dv-tracking-arrow.svg);
+        background-image: url(/icon-dv-tracking-arrow.svg);
         background-repeat: no-repeat;
         background-position: center center;
         background-size: auto;
@@ -173,7 +173,7 @@ img {
         opacity: inherit;
         border-color: #dd141d; }
         .data-nav .container a.step.active:before {
-          background-image: url(../images/icon-dv-tracking-arrow-active.svg);
+          background-image: url(/icon-dv-tracking-arrow-active.svg);
           width: 14.26px;
           height: 25px; }
         .data-nav .container a.step.active:after {
@@ -183,7 +183,7 @@ img {
         background-color: #dd141d;
         opacity: inherit; }
         .data-nav .container a.step.complete:before {
-          background-image: url(../images/icon-dv-tracking-check.svg);
+          background-image: url(/icon-dv-tracking-check.svg);
           width: 16px;
           height: 11.03px; }
         .data-nav .container a.step.complete:after {
@@ -598,10 +598,10 @@ hr, .separador {
           width: 48%;
           text-transform: uppercase; }
         .container form .input .input-fluid.col-2 input[type="date"] {
-          background: URL("../images/image-cm-calendar.png") no-repeat 95% 50% #fff !important;
+          background: URL("/image-cm-calendar.png") no-repeat 95% 50% #fff !important;
           background-size: 20px !important; }
         .container form .input .input-fluid.col-2 input[type="time"] {
-          background: URL("../images/image-cm-hour.png") no-repeat 95% 50% #fff !important;
+          background: URL("/image-cm-hour.png") no-repeat 95% 50% #fff !important;
           background-size: 20px !important; }
         .container form .input .input-fluid label {
           margin-bottom: 0; }
@@ -706,7 +706,7 @@ hr, .separador {
         -webkit-appearance: none;
         margin: 0; }
       .container form .input select {
-        background: URL("../images/icon_dv_arrowselect.png") no-repeat 98% 50% #fff !important;
+        background: URL("/icon_dv_arrowselect.png") no-repeat 98% 50% #fff !important;
         -moz-appearance: none;
         -webkit-appearance: none;
         appearance: none; }
@@ -865,7 +865,7 @@ hr, .separador {
           appearance: none;
           -webkit-appearance: none;
           -moz-appearance: none;
-          background: URL("../images/image-cm-arrowdown.png") no-repeat 98% 50% #fff !important; }
+          background: URL("/image-cm-arrowdown.png") no-repeat 98% 50% #fff !important; }
     .container .cont-list-items.cont-list-items-movements .item {
       background-color: #CDCDCD;
       padding-right: 55px; }
@@ -1114,7 +1114,7 @@ hr, .separador {
   .container.container-menu .item .data-caption p {
     font-size: 15px !important; }
   .container form .input select {
-    background: URL("../images/icon_dv_arrowselectmobile.png") no-repeat 98% 50% #fff !important;
+    background: URL("/icon_dv_arrowselectmobile.png") no-repeat 98% 50% #fff !important;
     -moz-appearance: none;
     -webkit-appearance: none;
     appearance: none; }
